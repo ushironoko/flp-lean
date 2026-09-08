@@ -1,0 +1,6 @@
+name = "flp-lean"
+version = "0.1.0"
+defaultTargets = ["FlpLean"]
+
+[[lean_lib]]
+name = "FlpLean"
